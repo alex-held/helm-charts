@@ -9,6 +9,6 @@ entries:
     name: io.alexheld.site
     type: application
     urls:
-    - helm.specs.dev.alexheld.io/helm-charts/io.alexheld.site/io.alexheld.site-0.1.0.tgz
+      - alex-held.github.io/helm-charts/io.alexheld.site/io.alexheld.site-0.1.0.tgz
     version: 0.1.0
 generated: "2021-09-12T17:07:46.731302+02:00"
