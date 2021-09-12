@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  io.alexheld.site:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-12T17:07:46.732694+02:00"
+    description: A Helm chart to deploy my website to Kubernetes
+    digest: 24ff8644ff496a0d3aa3eb282a04ff933517eb11cb4ed5bc966fa5eded74dded
+    name: io.alexheld.site
+    type: application
+    urls:
+    - helm.specs.dev.alexheld.io/helm-charts/io.alexheld.site/io.alexheld.site-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-09-12T17:07:46.731302+02:00"
